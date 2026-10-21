@@ -1,0 +1,1 @@
+print("ahoj jsem naty")
