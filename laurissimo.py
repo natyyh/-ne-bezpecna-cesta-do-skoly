@@ -1,0 +1,1 @@
+print("já mám hlad, chci spát a všechno mě boli min, jupi jej dojdu na intr ale musim do obchůdku pro papání")
